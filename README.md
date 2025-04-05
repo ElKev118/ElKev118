@@ -19,7 +19,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Systems Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 🌎 I’m from Medellín, Colombia, a city full of life and culture.
 
